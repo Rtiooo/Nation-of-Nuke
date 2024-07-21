@@ -11,6 +11,13 @@ ReligionIcons/Nuklism
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/KOH
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/The Nation of Nuke
   rotate: false
   xy: 112, 4
